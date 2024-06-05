@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[contains(@class,'ui-datepicker-day') and text()='4']//ancestor::tbody//tr/td[@data-handler='selectDay']//span[contains(@class,'ui-datepicker-day') and text()='6']"
+}

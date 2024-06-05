@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[text()=\"Chọn điểm đi\"]/parent::div//input[@placeholder=\"Mã sân bay, Tên sân bay, Tên thành phố...\"]"
+}

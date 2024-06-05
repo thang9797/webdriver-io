@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//form[@id='flight_search_form']//input[@id='flight_passenger']"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//label[@class='control-label'][contains(text(),'Trẻ em')]/ancestor::div[@class='popover-content']//div[@class='row'][2]//span[@class='input-group-btn'][2]"
+}

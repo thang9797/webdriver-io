@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//strong[text()='SGN']\"}\n  (Session info: chrome=125.0.6422.141)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7D6DC1F52+60322]\n\t(No symbol) [0x00007FF7D6D3CEC9]\n\t(No symbol) [0x00007FF7D6BF7EBA]\n\t(No symbol) [0x00007FF7D6C47676]\n\t(No symbol) [0x00007FF7D6C4773C]\n\t(No symbol) [0x00007FF7D6C8E967]\n\t(No symbol) [0x00007FF7D6C6C25F]\n\t(No symbol) [0x00007FF7D6C8BC80]\n\t(No symbol) [0x00007FF7D6C6BFC3]\n\t(No symbol) [0x00007FF7D6C39617]\n\t(No symbol) [0x00007FF7D6C3A211]\n\tGetHandleVerifier [0x00007FF7D70D94AD+3301629]\n\tGetHandleVerifier [0x00007FF7D71236D3+3605283]\n\tGetHandleVerifier [0x00007FF7D7119450+3563680]\n\tGetHandleVerifier [0x00007FF7D6E74326+790390]\n\t(No symbol) [0x00007FF7D6D4750F]\n\t(No symbol) [0x00007FF7D6D43404]\n\t(No symbol) [0x00007FF7D6D43592]\n\t(No symbol) [0x00007FF7D6D32F9F]\n\tBaseThreadInitThunk [0x00007FFF297F257D+29]\n\tRtlUserThreadStart [0x00007FFF2A92AA48+40]\n"
+}
