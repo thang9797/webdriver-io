@@ -36,6 +36,6 @@ describe('Flight Booking', () => {
     // Click to Find Flight button
     await homePage.clickToFindFlight();
     const RESULT = "//button[@id='filter_by_departure_depart']";
-    await homePage.resultFindFlight. waitForExist();
+    await homePage.resultFindFlight.waitForExist();
   });   
 });
